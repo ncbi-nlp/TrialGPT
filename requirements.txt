@@ -1,0 +1,4 @@
+nltk==3.5
+openai==0.28.0
+pandas==1.4.4
+scikit_learn==1.0.2

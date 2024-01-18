@@ -152,7 +152,7 @@ def convert_pred_to_prompt(
 	return prompt
 
 
-def trialgpt_aggregation(patient: str, trial_results: dict, trial_info: dict):
+def trialgpt_aggregation(patient: str, trial_results: dict, trial_info: dict, model: str):
 	prompt = convert_pred_to_prompt(
 			patient,
 			trial_results,
@@ -160,7 +160,7 @@ def trialgpt_aggregation(patient: str, trial_results: dict, trial_info: dict):
 	)   
 
 	completion = openai.ChatCompletion.create(
-			engine="gpt-4",
+			engine=model,
 			messages=[
 				{"role": "user", "content": prompt},
 			],

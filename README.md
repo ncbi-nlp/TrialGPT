@@ -2,7 +2,12 @@
 
 ## Configuration
 
-Please first replace the placeholders with your base URL and API key in Microsoft Azure OpenAI Services in `config.py`:
+The code has been tested with Python 3.9.13. Please first install the required packages by:
+```bash
+pip install -r requirements.txt
+```
+
+Please also replace the placeholders with your base URL and API key in Microsoft Azure OpenAI Services in `config.py`:
 ```
 config = {
 	"api_type": "azure",

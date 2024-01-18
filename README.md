@@ -37,7 +37,7 @@ The first step of TrialGPT is to generate the criterion-level predictions, which
 
 Run the following code to get the GPT-4-based TrialGPT results for the three cohorts:
 ```bash
-# format python run_matching.py {split} {model}
+# format: python run_matching.py {split} {model}
 python run_matching.py sigir gpt-4
 python run_matching.py 2021 gpt-4
 python run_matching.py 2022 gpt-4
@@ -49,10 +49,75 @@ The second step of TrialGPT is to aggregate the criterion-level predictions to g
 
 Please make sure that the step 1 results are ready before running the step 2 code:
 ```bash
-# format python run_aggregation.py {split} {model}
+# format: python run_aggregation.py {split} {model}
 python run_aggregation.py sigir gpt-4
 python run_aggregation.py 2021 gpt-4
 python run_aggregation.py 2022 gpt-4
+```
+
+# Step 3: Computing Performance
+
+The third step is to compute the performance of different linear features, LLM features, and the combined features.
+
+Please make sure that the step 1 and step 2 results are ready before running the step 3 code:
+```bash
+# first convert the results of each split into a csv file
+# format: python convert_results_to_csv.py {split} {model}
+python convert_results_to_csv.py sigir gpt-4
+python convert_results_to_csv.py 2021 gpt-4
+python convert_results_to_csv.py 2022 gpt-4
+
+# then compute the results
+# format: python get_ranking_results.py {model}
+python get_ranking_results.py gpt-4
+```
+
+An example output is:
+```bash
+Ranking NDCG@10
+comb 0.8164884118874282
+% inc 0.6332474730345071
+% not inc 0.5329210870830088
+% exc 0.43696962433262426
+% not exc 0.45405418648143114
+bool not inc 0.5329768607974994
+bool exc 0.43696962433262426
+random 0.37846131596973925
+eligibility 0.7065496001369167
+relevance 0.7338932013178386
+Ranking Prec@10
+comb 0.7327619047619052
+% inc 0.5749776817540412
+% not inc 0.4977844888166035
+% exc 0.4148365417832818
+% not exc 0.4310829292061639
+bool not inc 0.4977844888166035
+bool exc 0.4148365417832818
+random 0.36647619047619046
+eligibility 0.5659880952380945
+relevance 0.552433886908542
+Ranking MRR
+comb 0.9098095238095236
+% inc 0.3827687074829934
+% not inc 0.019997732426303858
+% exc 0.0009523809523809524
+% not exc 0.020113378684807254
+bool not inc 0.019997732426303858
+bool exc 0.0009523809523809524
+random 0.5900770975056686
+eligibility 0.8301904761904761
+relevance 0.7437573696145123
+Auc
+comb 0.774898491501416
+% inc 0.6524326107402266
+% not inc 0.6561815920536348
+% exc 0.6512699942037056
+% not exc 0.6279445988475326
+bool not inc 0.6559597180944899
+bool exc 0.6521852962178314
+random 0.49775549502869065
+eligibility 0.6377132521512072
+relevance 0.6495563326979852
 ```
 
 ## Acknowledgments

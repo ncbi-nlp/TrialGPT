@@ -55,7 +55,7 @@ python run_aggregation.py 2021 gpt-4
 python run_aggregation.py 2022 gpt-4
 ```
 
-# Step 3: Computing Performance
+## Step 3: Computing Performance
 
 The third step is to compute the performance of different linear features, LLM features, and the combined features.
 

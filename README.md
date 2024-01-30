@@ -35,7 +35,7 @@ We also put a pre-processed set of the used clinical trials in `./datasets/trial
 
 The first step of TrialGPT is to generate the criterion-level predictions, which include (1) the explanation of patient-criterion relevance, (2) locations of relevant sentences, and (3) the eligibility predictions.
 
-Run the following code to get the GPT-4-based TrialGPT results for the three cohorts:
+Run the following code to get the GPT-4-based TrialGPT results for the three cohorts (depending on the API response rate, matching a patient and a clinical trial normally takes less than 30s):
 ```bash
 # format: python run_matching.py {split} {model}
 python run_matching.py sigir gpt-4
@@ -47,7 +47,7 @@ python run_matching.py 2022 gpt-4
 
 The second step of TrialGPT is to aggregate the criterion-level predictions to get trial-level scores, including one score for relevance and one score for eligibility.
 
-Please make sure that the step 1 results are ready before running the step 2 code (depending on the API response rate, matching a patient and a clinical trial normally takes less than 30s):
+Please make sure that the step 1 results are ready before running the step 2 code (depending on the API response rate, aggregating a patient-trial pair normally takes less than 20s):
 ```bash
 # format: python run_aggregation.py {split} {model}
 python run_aggregation.py sigir gpt-4
@@ -59,7 +59,7 @@ python run_aggregation.py 2022 gpt-4
 
 The third step is to compute the performance of different linear features, LLM features, and the combined features.
 
-Please make sure that the step 1 and step 2 results are ready before running the step 3 code (depending on the API response rate, aggregating a patient-trial pair normally takes less than 20s):
+Please make sure that the step 1 and step 2 results are ready before running the step 3 code:
 ```bash
 # first convert the results of each split into a csv file
 # format: python convert_results_to_csv.py {split} {model}

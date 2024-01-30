@@ -7,7 +7,7 @@ Clinical trials are often hindered by the challenge of patient recruitment. In t
 
 ## Configuration
 
-The code has been tested with Python 3.9.13. Please first install the required packages by:
+The code has been tested with Python 3.9.13 using CentOS Linux release 7.9.2009 (Core). Please first install the required packages by (this would take only several minutes on a normal computer):
 ```bash
 pip install -r requirements.txt
 ```

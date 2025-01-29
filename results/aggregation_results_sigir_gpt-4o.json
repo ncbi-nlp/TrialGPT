@@ -1,0 +1,724 @@
+{
+    "sigir-20141": {
+        "NCT01397994": {
+            "relevance_explanation": "The patient presents with episodic chest pain, which is a symptom related to angina, but there is no evidence of chronic stable angina or an abnormal Exercise Myocardial Perfusion Spect Scan, which are key requirements for the trial. The patient is within the age range and is female, which are relevant to the trial's inclusion criteria. However, the lack of a confirmed diagnosis of chronic stable angina significantly reduces the relevance.",
+            "relevance_score_R": 40.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria such as age, gender, and willingness to comply with the study protocol. However, the patient does not have a confirmed diagnosis of chronic stable angina, which is a critical inclusion criterion. Additionally, there is insufficient information to confirm or exclude the patient based on some exclusion criteria, such as blood pressure specifics and eligibility for Tc 99m SPECT. Therefore, the patient is not eligible for the trial.",
+            "eligibility_score_E": -40.0
+        },
+        "NCT00149227": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she has a clinical diagnosis of hypertension, which is a target condition of the trial. Additionally, she has obesity and ECG abnormalities, which are considered risk factors for the trial. These factors align with the trial's focus on high-risk patients with hypertension.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria due to her hypertension and additional risk factors such as obesity and ECG abnormalities. She is not excluded by any of the exclusion criteria, as there is no evidence of ARB use, recent PCI or CABG, severe hypertension, pregnancy, arrhythmia, or severe renal or hepatic impairment. However, there is insufficient information regarding some exclusion criteria, such as renal and hepatic function, which slightly reduces the eligibility score.",
+            "eligibility_score_E": 80.0
+        }
+    },
+    "sigir-20142": {
+        "NCT00711399": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with respiratory sounds, specifically cough and shortness of breath, which are the target conditions of the trial. Additionally, the patient and his guardians are willing to provide informed consent, which is a key inclusion criterion.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "While the patient meets the inclusion criteria of having cough and shortness of breath and providing informed consent, he is excluded due to being in respiratory distress, which is an exclusion criterion. Therefore, despite being relevant, he is ineligible for the trial.",
+            "eligibility_score_E": -90.0
+        },
+        "NCT02618655": {
+            "relevance_explanation": "The patient presents with an acute fever and respiratory symptoms, which could potentially be related to a tick-borne disease, making the trial relevant. However, the fever duration is only 2 days, which does not fully align with the trial's focus on fever of unknown origin lasting more than one week. The trial aims to diagnose tick-borne diseases, and the patient's recent travel history and symptoms could be relevant, but the short duration of fever limits the relevance.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of having a temperature higher than 38\u00b0C. However, he does not meet the criterion of having a fever for more than one week, and there is insufficient information regarding the completion of physical and laboratory examinations after one week. The patient is not excluded based on the available exclusion criteria, as there is no indication of a non-infectious cause or automatic discharge. Overall, the patient partially meets the eligibility criteria but lacks key information for full eligibility.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-20143": {
+        "NCT02490059": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she has a left lung mass, which could potentially be a solitary pulmonary nodule (SPN), a target condition for the trial. However, the relevance is limited by the lack of confirmation via a CT scan, which is necessary to confirm the presence of a pulmonary nodule. Additionally, there is no information on whether the nodule is non-visible on standard-size bronchoscopy, which is a key aspect of the trial. The patient's willingness to provide informed consent and comply with the trial protocol supports her relevance.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The eligibility of the patient is uncertain due to the lack of specific information confirming the presence of a pulmonary nodule on a CT scan and the visibility status of the nodule on standard-size bronchoscopy. While the patient is not excluded based on the informed consent criterion, the absence of critical inclusion information limits her eligibility. Therefore, the eligibility score reflects this uncertainty.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT01452971": {
+            "relevance_explanation": "The patient is potentially relevant to the clinical trial as she has a left lung mass, which suggests the possibility of lung cancer. The trial is focused on lung cancer patients, specifically studying the GNMT gene in relation to lung cancer. However, there is no confirmed diagnosis of lung cancer in the patient note, which limits the relevance. The patient's age and ability to comply with the trial protocol are not barriers to participation.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient is not confirmed to have lung cancer, which is a key inclusion criterion for the trial. While she is not excluded based on age or the absence of lung cancer, the lack of a confirmed diagnosis means she does not fully meet the inclusion criteria. Therefore, her eligibility is limited by the absence of a definitive lung cancer diagnosis.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-20144": {
+        "NCT02390596": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with Kawasaki Disease, which is the target condition of the trial. The patient exhibits the necessary clinical signs and symptoms, including fever for 5 days and 4 out of 5 main clinical signs, as well as coronary artery abnormalities, which align with the trial's inclusion criteria for Kawasaki Disease.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: he is above the age and weight threshold, has Kawasaki Disease with the required clinical signs, and informed consent is available. However, there is insufficient information regarding the patient's response to standard therapy, health insurance status, and several exclusion criteria such as previous biotherapy treatment, immunodeficiency, and TB risk factors. These unknowns prevent a full eligibility determination.",
+            "eligibility_score_E": 50.0
+        },
+        "NCT00841789": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is a 2-year-old male presenting with symptoms consistent with Kawasaki Disease, which is the target condition of the trial. The trial aims to study the effects of Etanercept in conjunction with IVIG and aspirin in patients with Kawasaki Disease, directly aligning with the patient's condition.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets all inclusion criteria: he is within the age range, parental consent is provided, and he presents with Kawasaki Disease. However, he is excluded due to laboratory toxicities, specifically elevated alanine aminotransferase and low albumin levels, which may preclude participation. Additionally, the enlarged liver and elevated liver enzymes suggest potential liver issues, further supporting exclusion under criterion 16. These factors significantly impact his eligibility.",
+            "eligibility_score_E": -50.0
+        }
+    },
+    "sigir-20145": {
+        "NCT00163709": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she presents to the emergency department with shortness of breath, which is a primary condition of interest for the trial. Additionally, she is over 40 years old, which aligns with the inclusion criteria. However, there is no information about her triage category, which is necessary to fully assess relevance.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the age and symptom criteria for inclusion, as she is over 40 and presents with shortness of breath. There is no evidence of exclusion criteria such as traumatic dyspnea, severe renal disease, cardiogenic shock, or early transfer to another hospital. However, the lack of information about the triage category prevents full confirmation of eligibility.",
+            "eligibility_score_E": 60.0
+        },
+        "NCT01935141": {
+            "relevance_explanation": "The patient presents with symptoms suggestive of a pulmonary embolism, such as shortness of breath and an elevated D-dimer, which are relevant to the trial's focus on detecting emboli using CT pulmonary angiography. However, there is no explicit mention of a referral for a CT pulmonary angiogram, which is a key inclusion criterion for the trial.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient does not have any exclusion criteria such as congestive heart failure, supraventricular tachycardia, or a history of contrast allergy. The patient is also able to provide informed consent. However, there is insufficient information regarding a referral for a CT pulmonary angiogram and serum creatinine levels, which are necessary to fully determine eligibility.",
+            "eligibility_score_E": 30.0
+        }
+    },
+    "sigir-20146": {
+        "NCT00015626": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is obese and has diabetes mellitus, which are target conditions of the trial. The trial aims to address insulin resistance and its complications, which are related to the patient's condition.",
+            "relevance_score_R": 75.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion for obesity, but there is insufficient information regarding other inclusion criteria such as specific complications of insulin resistance or family history of type II diabetes. The patient is excluded due to a history of poor compliance with physician's recommendations, which is a significant exclusion criterion.",
+            "eligibility_score_E": -75.0
+        },
+        "NCT02512159": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she has a skin lesion on the lower leg, which could potentially be a type of ulcer targeted by the trial. Additionally, she has diabetes mellitus, a comorbidity associated with the trial's target conditions. However, there is no direct evidence that the lesion is due to diabetes mellitus, venous stasis, or arterial insufficiency, which slightly reduces the relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: she is over 18 years old and has diabetes mellitus. She is not excluded by any of the exclusion criteria, as there is no evidence of hemodynamic instability, septic shock, deep ulcers with exposed organs, or other specified conditions. However, there is insufficient information to confirm the presence of basic laboratory tests at admission, and the nature of the skin lesion is not fully clarified to confirm it as an ulcer due to the specified conditions. Therefore, while she is likely eligible, the lack of specific information about the lesion's etiology and laboratory tests slightly reduces the eligibility score.",
+            "eligibility_score_E": 50.0
+        }
+    },
+    "sigir-20147": {
+        "NCT01863628": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she has a diagnosis of bipolar disorder, which is the target condition of the trial. However, the trial specifically targets offspring of parents with bipolar disorder, and there is no information provided about the patient's parental history of bipolar disorder. Additionally, the trial focuses on the prodromal stage of bipolar disorder, and while the patient exhibits symptoms such as depressive mood, anxiety, and agitation, there is no information on whether these symptoms are part of a prodromal phase or the duration of these symptoms.",
+            "relevance_score_R": 50.0,
+            "eligibility_explanation": "The patient is ineligible for the trial due to the exclusion criterion of having a DSM-IV defined Axis I disorder, which includes her diagnosis of bipolar disorder. While she exhibits symptoms that could be relevant to the trial's focus on prodromal symptoms, the lack of information about her parental history of bipolar disorder and the exclusion due to her current diagnosis significantly impact her eligibility.",
+            "eligibility_score_E": -50.0
+        },
+        "NCT00845988": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she has a history of bipolar disorder, which is the primary condition being studied. Additionally, she is within the age range specified by the trial. The trial aims to study metabolic complications, and the patient is obese, which may indicate metabolic issues. However, there is no specific information about weight gain after starting her current medication, which slightly reduces relevance.",
+            "relevance_score_R": 85.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria for having bipolar disorder and being within the age range. She is willing to provide informed consent, but there is no information about her syndromal remission state, which is necessary for full eligibility. Additionally, while she is obese, there is no specific evidence of weight gain after starting her current medication, which is a key inclusion criterion. She does not meet any exclusion criteria, as there is no mention of eating disorders, substance abuse, psychotic disorders, or other medical illnesses. Overall, the lack of information on weight gain and syndromal remission state limits her eligibility.",
+            "eligibility_score_E": 40.0
+        }
+    },
+    "sigir-20148": {
+        "NCT01519271": {
+            "relevance_explanation": "The patient is experiencing severe cognitive deficits and memory dysfunction, which are more advanced than the mild cognitive impairment targeted by the trial. The trial is specifically for patients with mild cognitive impairment in the context of Parkinson's Disease, and there is no mention of Parkinson's Disease in the patient's note. Therefore, the relevance of this patient to the trial is low.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient is excluded from the trial due to a likely diagnosis of dementia, as indicated by severe cognitive deficits and memory dysfunction. This directly conflicts with exclusion criterion 3. While the patient can provide informed consent, which meets one inclusion criterion, the presence of dementia makes the patient ineligible for the trial.",
+            "eligibility_score_E": -20.0
+        },
+        "NCT01628315": {
+            "relevance_explanation": "The patient is not relevant to the clinical trial as the trial is focused on patients with relapsing-remitting multiple sclerosis (RRMS), while the patient exhibits symptoms consistent with a neurodegenerative condition, possibly Creutzfeldt-Jakob disease, given the EEG findings and biopsy results. There is no mention of multiple sclerosis or related symptoms in the patient note.",
+            "relevance_score_R": 0.0,
+            "eligibility_explanation": "The patient is not eligible for the trial as they do not meet the primary condition of having relapsing-remitting multiple sclerosis, nor is there any indication of prior enrollment in the ASA study or MRI data as required by the trial criteria.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-20149": {
+        "NCT01950026": {
+            "relevance_explanation": "The patient is potentially relevant to the clinical trial as she is visiting a dermatologist for skin lesions, which may involve skin sensitivity or conditions that could be relevant to a study on skin temperature changes after cryotherapy. However, the trial specifically targets body temperature changes in different ethnic groups, and there is no information about the patient's ethnic background in the note.",
+            "relevance_score_R": 50.0,
+            "eligibility_explanation": "The patient note does not provide information about the patient's ethnic group, which is necessary for inclusion. However, there is no indication of any exclusion criteria being met, such as changes in skin sensitivity or infectious diseases. Therefore, the patient is not excluded but also not confirmed eligible due to lack of information on the inclusion criterion.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT02615912": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is visiting a dermatologist for skin lesions, which could be related to skin conditions like dermatitis. The trial aims to study skin microflora dynamics in response to surfactants, which could be relevant to understanding skin conditions. However, the trial specifically targets dermatitis, and the patient note does not explicitly mention dermatitis, which slightly reduces relevance.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient is ineligible for the trial due to the exclusion criterion that disqualifies subjects with visible skin conditions. The patient has multiple lesions on her neck, which are considered a visible skin condition, thus excluding her from participation.",
+            "eligibility_score_E": -60.0
+        }
+    },
+    "sigir-201410": {
+        "NCT02264964": {
+            "relevance_explanation": "The patient underwent cardiac catheterization via the right femoral artery, which is not directly related to the trial's focus on central venous catheterization for hemodialysis. The trial targets patients with chronic renal failure requiring hemodialysis, a condition not mentioned in the patient note. However, the patient is willing to provide informed consent, which is relevant to the trial's requirements.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient meets the criterion of providing informed consent. However, there is no information indicating that the patient has chronic renal failure requiring hemodialysis, which is a primary inclusion criterion. Additionally, there is no evidence of the patient having undergone central venous catheterization, which is relevant for both inclusion and exclusion criteria. Therefore, the eligibility is limited due to the lack of information on key criteria.",
+            "eligibility_score_E": 5.0
+        },
+        "NCT02097186": {
+            "relevance_explanation": "The patient underwent cardiac catheterization, which is a vascular procedure, but there is no indication that she is undergoing any of the specific surgeries targeted by the trial, such as carotid endarterectomy, abdominal aortic aneurysm repair, or lower limb revascularization. Therefore, the relevance to the trial is limited.",
+            "relevance_score_R": 30.0,
+            "eligibility_explanation": "The patient meets the basic inclusion criteria of age and willingness to provide informed consent. However, there is no information indicating that she is undergoing any of the specific surgeries required for inclusion in the trial. Additionally, there is insufficient information to determine if any exclusion criteria apply. Thus, the eligibility is low.",
+            "eligibility_score_E": 5.0
+        }
+    },
+    "sigir-201411": {
+        "NCT01723137": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she presents with acute pain, which is the target condition of the study. The trial aims to measure changes in acute pain using patient-reported scales, and the patient reports excruciating pain, which is likely to be greater than 3 out of 10 on the pain scale. Additionally, the patient is alert, over 18 years of age, and able to provide informed consent, aligning with the trial's inclusion criteria.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of reporting pain greater than or equal to 3 out of 10, as she presents with excruciating pain. She is 40 years old, which satisfies the age requirement of being at least 18 years old. The patient is alert and able to provide informed consent, which means she does not meet the exclusion criteria of decreased level of consciousness or inability to answer questions. There is no information suggesting she is a prisoner, so she is not excluded on that basis. Therefore, the patient is fully eligible for the trial.",
+            "eligibility_score_E": 95.0
+        },
+        "NCT01526382": {
+            "relevance_explanation": "The patient presents with symptoms that may suggest shock, such as hypotension and tachycardia, which are relevant to the trial's focus on septic shock. However, there is no direct diagnosis of shock or ARDS, which are the primary conditions targeted by the trial. The patient's symptoms align with some of the inclusion criteria, such as tachycardia and tachypnea, but the lack of a confirmed diagnosis of shock or ARDS limits the relevance.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient meets some inclusion criteria, such as having a heart rate over 90/min and a respiratory rate over 20/min, which are indicative of potential shock. However, there is insufficient information to confirm other critical criteria, such as the use of vasopressors, signs of hypoperfusion, or a confirmed diagnosis of ARDS. The patient is not excluded based on the available exclusion criteria, but the lack of comprehensive data on key inclusion criteria limits eligibility.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-201412": {
+        "NCT01551498": {
+            "relevance_explanation": "The patient presents with symptoms suggestive of thyroid dysfunction, such as fatigue, hair loss, voice change, weight gain, and cold intolerance, along with a cervical mass, which could indicate thyroiditis. These symptoms align with the target condition of autoimmune thyroiditis being studied in the trial. However, there is no direct evidence of autoimmune thyroiditis, such as positive thyroid peroxidase antibodies or sonographic evidence, which are key inclusion criteria.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the age criterion and does not have any known exclusions such as end-stage thyroiditis or use of prohibited medications. However, there is insufficient information regarding the presence of thyroid peroxidase antibodies and sonographic evidence of Hashimoto's thyroiditis, which are necessary for inclusion. Without this information, the patient's eligibility remains uncertain.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT00271427": {
+            "relevance_explanation": "The patient presents with symptoms that are consistent with thyroid issues, such as fatigue, hair loss, weight gain, and a cervical mass, which could suggest a thyroid disorder like autoimmune thyroiditis. However, there is no direct evidence in the patient note of a clinical diagnosis of autoimmune thyroiditis or Hashimoto's Thyroiditis, nor is there mention of the patient using LT4, which is a key inclusion criterion for the trial. Therefore, while the symptoms suggest potential relevance, the lack of a confirmed diagnosis and LT4 use limits the relevance to the trial.",
+            "relevance_score_R": 50.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criterion as there is no confirmed diagnosis of autoimmune thyroiditis or use of LT4 mentioned in the patient note. Additionally, there is no information provided that would exclude the patient based on the exclusion criteria, such as the use of other medications or known pathologies affecting GIS absorption. However, the lack of a confirmed diagnosis and LT4 use makes the patient ineligible for the trial.",
+            "eligibility_score_E": -50.0
+        }
+    },
+    "sigir-201413": {
+        "NCT02264769": {
+            "relevance_explanation": "The patient is a postpartum woman, which is relevant to the trial's focus on postpartum hemorrhage. However, the trial specifically targets women undergoing elective cesarean delivery, and this patient had a natural birth. Therefore, while she is somewhat relevant due to the postpartum context, she does not meet the primary inclusion criterion of having an elective cesarean delivery.",
+            "relevance_score_R": 40.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria for providing informed consent and having a term pregnancy. However, she does not meet the primary inclusion criterion of having undergone an elective cesarean delivery, which is crucial for this trial. There are no exclusion criteria that apply to her, but the lack of meeting the primary inclusion criterion significantly impacts her eligibility.",
+            "eligibility_score_E": 10.0
+        },
+        "NCT00163709": {
+            "relevance_explanation": "The patient presented to the Emergency Department with shortness of breath, which is the primary condition of interest for the trial. However, the trial specifically targets patients over 40 years old, and the patient is only 30 years old. This significantly reduces the relevance of the trial to the patient.",
+            "relevance_score_R": 30.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criterion of being over 40 years old, which makes her ineligible for the trial. There are no exclusion criteria that apply to her, but the failure to meet the age requirement is sufficient to determine ineligibility.",
+            "eligibility_score_E": -30.0
+        }
+    },
+    "sigir-201414": {
+        "NCT01624545": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he is 85 years old, which meets the age criterion of being 18 years or older. Additionally, he is willing to provide informed consent and comply with the trial protocol, which is another inclusion criterion. However, the patient does not have a newly diagnosed chronic subdural hematoma operated within the last 48 hours, which is a critical inclusion criterion for the trial. This significantly reduces the relevance of the patient to the trial, as the primary focus is on patients who have undergone recent surgery for chronic subdural hematoma.",
+            "relevance_score_R": 40.0,
+            "eligibility_explanation": "The patient meets the age criterion and is willing to provide informed consent, which are positive indicators for eligibility. He is not excluded by any of the exclusion criteria provided, such as being in a moribund state, having geographic follow-up difficulties, or having a CSH due to specific conditions. However, the patient does not meet the critical inclusion criterion of having a newly diagnosed chronic subdural hematoma operated within the last 48 hours, which is essential for participation in the trial. This makes the patient ineligible for the trial despite meeting other criteria.",
+            "eligibility_score_E": -40.0
+        },
+        "NCT01869855": {
+            "relevance_explanation": "The patient is an 85-year-old male, which satisfies the age requirement for the trial. However, there is no mention of the patient having a chronic subdural hematoma, which is the primary condition being studied in the trial. Without evidence of this condition, the relevance to the trial is significantly reduced.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criteria as there is no indication of a chronic subdural hematoma verified on cranial CT or MRI. While the patient is willing to provide informed consent, this alone does not make him eligible for the trial. There is no information suggesting exclusion based on the criteria provided, but the lack of inclusion criteria fulfillment results in ineligibility.",
+            "eligibility_score_E": -20.0
+        }
+    },
+    "sigir-201415": {
+        "NCT00180739": {
+            "relevance_explanation": "The patient is a 36-year-old woman with a differential diagnosis that includes uterine fibroids, which aligns with the target condition of the clinical trial. The trial is focused on women with uterine fibroids who wish to pursue pregnancy, and the patient is within the age range specified in the inclusion criteria. Additionally, the patient is willing to provide informed consent and comply with the trial protocol, which is relevant to the trial's requirements.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the age requirement and has a differential diagnosis that includes fibroids, making her potentially eligible. She is not pregnant, as confirmed by a negative pregnancy test, and her uterine size is within the acceptable range. However, there is insufficient information regarding her fertility history, ovarian function, use of non-steroidal treatments, MRI visibility of fibroids, and other specific trial requirements. Therefore, while she is not excluded by any criteria, the lack of detailed information on several inclusion criteria limits her eligibility.",
+            "eligibility_score_E": 40.0
+        },
+        "NCT00277680": {
+            "relevance_explanation": "The patient presents with symptoms that could be associated with uterine fibroids, such as an enlarged uterus and abdominal tenderness. The differential diagnosis includes fibroid degeneration, which aligns with the target condition of the trial. However, there is no explicit mention of menorrhagia or bulk symptoms, which are key inclusion criteria for the trial. Despite this, the potential presence of fibroids makes the trial relevant to the patient.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient is not excluded by most of the exclusion criteria, such as malignancy, current pregnancy, or being postmenopausal. However, the exclusion criterion regarding uterus size exceeding the umbilical level is likely met, as the physical exam notes an 18-week sized uterus, which typically exceeds the umbilical level. This makes the patient ineligible for the trial despite the relevance of her condition.",
+            "eligibility_score_E": -70.0
+        }
+    },
+    "sigir-201416": {
+        "NCT02238756": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is experiencing symptoms consistent with rabies, which is the target condition of the trial. The trial aims to investigate the safety and tolerability of a rabies vaccine, which is pertinent given the patient's symptoms of hydrophobia and other neurological signs suggestive of rabies.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient is excluded from the trial due to the presence of acute disease symptoms such as spastic arm movements, sweating, agitation, anxiety, malaise, difficulty swallowing, and hydrophobia, which are likely to interfere with the safety assessment of the investigational products. Although she meets some inclusion criteria, the acute nature of her symptoms makes her ineligible.",
+            "eligibility_score_E": -90.0
+        },
+        "NCT02374814": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is a 28-year-old female, which fits the age and gender criteria for the trial. Additionally, she is able to provide informed consent and comply with the trial protocol, as indicated in the patient note. The trial is focused on rabies pre-exposure prophylaxis, and the patient's symptoms and recent history suggest a potential rabies exposure, making the trial relevant to her current medical situation.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria regarding age, gender, and ability to provide informed consent. However, there is insufficient information regarding exclusion criteria such as pregnancy status, participation in other clinical trials, previous rabies vaccination, or rabies immune globulin administration. Additionally, while the patient exhibits anxiety and agitation, it is unclear if these symptoms constitute a major psychiatric disorder that would exclude her from the trial. Therefore, while she is likely eligible, the lack of information on these exclusion criteria prevents a full eligibility confirmation.",
+            "eligibility_score_E": 45.0
+        }
+    },
+    "sigir-201417": {
+        "NCT01745731": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he meets several key inclusion criteria. He is 48 years old, which satisfies the age requirement. He has a ruptured liver abscess, which qualifies as a liver space-occupying lesion and a liver injury threatening the viability of the remaining liver tissue, both of which are relevant to the trial's focus on liver conditions requiring extended hepatic resection. Additionally, the patient is willing to provide informed consent and comply with the trial protocol, which is a necessary condition for participation.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: he is of the appropriate age, has a liver space-occupying lesion, and is willing to provide informed consent. He does not meet any exclusion criteria based on the available information. However, there is insufficient information regarding several other inclusion criteria, such as standard analytical parameters, leukocyte, neutrophil, and platelet counts, as well as AST/ALT and creatinine levels. Despite this, the absence of exclusion criteria and the fulfillment of key inclusion criteria suggest a moderate level of eligibility.",
+            "eligibility_score_E": 40.0
+        },
+        "NCT02556359": {
+            "relevance_explanation": "The patient is relevant to the clinical trial because he has a history of Common Variable Immunodeficiency (CVID), which is one of the primary conditions being studied in the trial. However, the trial also targets immune deficiency and early bone marrow failure (BMF) in childhood, which does not apply to this patient as he is 48 years old. Therefore, while the patient is relevant due to his CVID, he does not meet the age-related aspect of the trial's target conditions.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient is eligible based on the inclusion criterion for Common Variable Immunodeficiency (CVID), as he has a history of this condition. He is not excluded based on the criterion of refusal to consent, as he is willing to provide informed consent. However, there is no information indicating that the patient is a genetic patient, which is another inclusion criterion, and he does not meet the age-related criterion for early BMF in childhood. Therefore, while he meets some criteria, he does not fully meet all the inclusion criteria, particularly the age-related one.",
+            "eligibility_score_E": 30.0
+        }
+    },
+    "sigir-201418": {
+        "NCT00557219": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he is experiencing oliguria and has risk factors for acute renal failure, which are key conditions being studied in the trial. However, it is not confirmed that the surgery was cardiac, which is a specific requirement of the trial.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: he has oliguria with urine output < 0.2 mL/kg/hr and risk factors for acute renal failure such as generalized edema and elevated serum creatinine. He is not excluded based on the available exclusion criteria, as he does not have chronic renal failure or a serum creatinine level > 2 mg/dL. However, there is insufficient information regarding the type of surgery (cardiac) and the administration of furosemide, which are critical for full eligibility.",
+            "eligibility_score_E": 40.0
+        },
+        "NCT01260883": {
+            "relevance_explanation": "The patient is a 6-month-old infant who has undergone major surgery, which aligns with the trial's focus on postoperative infants aged 2 to 18 months. This makes the patient highly relevant to the trial.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "While the patient meets the inclusion criteria of being a postoperative infant within the specified age range, he is excluded due to potential renal issues indicated by elevated blood urea nitrogen and serum creatinine levels. This exclusion is based on the trial's criterion regarding renal disease.",
+            "eligibility_score_E": -90.0
+        }
+    },
+    "sigir-201419": {
+        "NCT00256529": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is a 52-year-old man presenting with progressive dysphagia, which aligns with the trial's focus on patients with dysphagia to determine the presence of eosinophilic esophagitis. The patient's symptoms and age fit the inclusion criteria for the study.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the age and symptom criteria for inclusion. There is no information suggesting he has significant cardiopulmonary disease or contraindications to EGD, nor is there evidence of esophageal varices, which are exclusion criteria. He is willing to provide informed consent and comply with the trial protocol. However, there is insufficient information regarding his ability to undergo EGD and biopsies, which slightly affects the eligibility score.",
+            "eligibility_score_E": 80.0
+        },
+        "NCT02509286": {
+            "relevance_explanation": "The patient presents with progressive dysphagia and significant weight loss, which are symptoms consistent with esophageal adenocarcinoma, a target condition of the trial. However, there is no histological confirmation of adenocarcinoma, which is crucial for relevance. The patient's age is appropriate for the trial, and he is willing to provide informed consent, which aligns with the trial's requirements.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient meets the age criterion and is willing to provide informed consent, which are two inclusion criteria. However, there is insufficient information regarding the histological confirmation of adenocarcinoma, cancer staging, and other health parameters such as cardiac, bone marrow, respiratory, renal, and liver functions. Additionally, there is no information on exclusion criteria such as tumor histology, operability, or prior treatments. Therefore, the eligibility is limited by the lack of comprehensive clinical data.",
+            "eligibility_score_E": 10.0
+        }
+    },
+    "sigir-201420": {
+        "NCT01594385": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she is a trauma patient with abdominal issues, likely undergoing damage control/open abdomen management, which aligns with the trial's focus on trauma patients with open abdomen conditions. Additionally, she is 32 years old, meeting the age criterion for the trial.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria of being a trauma patient undergoing potential damage control/open abdomen management and is over 18 years old. There is no information suggesting she is a prisoner or pregnant, thus not excluded by those criteria. However, there is insufficient information regarding her life expectancy, which is a necessary inclusion criterion. This lack of information slightly reduces her eligibility score.",
+            "eligibility_score_E": 70.0
+        },
+        "NCT02255487": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is a 32-year-old woman who has sustained abdominal trauma, which aligns with the trial's focus on patients undergoing open abdominal laparotomy for abdominal trauma or acute surgical abdomen. However, it is not explicitly stated whether she requires an open abdominal laparotomy, which is a key aspect of the trial's inclusion criteria.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the basic inclusion criteria of age and consent. However, there is insufficient information to confirm if she requires an open abdominal laparotomy, which is crucial for eligibility. There are no indications that she meets any exclusion criteria, but the lack of information on the necessity of surgery limits her eligibility.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-201421": {
+        "NCT01520155": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she has systemic Lupus erythematosus (SLE), which is the target condition of the study. The patient's symptoms, such as arthralgias, rash, alopecia, and laboratory findings including positive ANA and anti-dsDNA, normocytic anemia, thrombocytopenia, and renal involvement (proteinuria and RBC casts), strongly indicate SLE. This aligns with the trial's focus on assessing cardiovascular risk in SLE patients.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient is fully eligible for the trial as she meets the inclusion criterion of having systemic Lupus erythematosus and is not excluded by any criteria. The trial aims to study cardiovascular risk in SLE patients, and the patient's renal involvement is also relevant to the study's objectives. There are no exclusion criteria that apply to her, making her a suitable candidate for the trial.",
+            "eligibility_score_E": 95.0
+        },
+        "NCT00997100": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she has been diagnosed with Systemic Lupus Erythematosus (SLE), which is the target condition of the trial. She presents with symptoms such as arthritis, rash, and renal involvement, which align with the trial's focus on mild active SLE with symptoms from skin, mouth, and/or joints.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria, such as being over 18 years old, fulfilling at least 4 ACR criteria for SLE, and presenting with active SLE symptoms including arthritis and skin rash. However, she is excluded due to active renal lupus, as indicated by protein and RBC casts in her urine, which is a disqualifying factor according to the exclusion criteria.",
+            "eligibility_score_E": -90.0
+        }
+    },
+    "sigir-201422": {
+        "NCT00723788": {
+            "relevance_explanation": "The patient is a 15-year-old girl presenting to the ER with symptoms consistent with appendicitis, including right lower quadrant pain and a markedly edematous appendix on ultrasound. This aligns perfectly with the trial's target condition of appendicitis in children and the inclusion criterion of being aged 8-18 years, referred from the emergency department for suspected appendicitis, and having received an ultrasound. Therefore, the patient is highly relevant to the trial.",
+            "relevance_score_R": 100.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion as she is within the age range of 8-18 years, presents with suspected appendicitis, and has undergone an abdominal ultrasound. There are no indications of exclusion criteria such as issues with MRI metal screening, claustrophobia, or the need for sedation. Thus, the patient is fully eligible for the trial.",
+            "eligibility_score_E": 100.0
+        },
+        "NCT00236912": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she presents with symptoms of appendicitis, which is the target condition of the study. However, the trial specifically targets complicated appendicitis, which involves a ruptured appendix, and there is no evidence in the patient note that her appendicitis is complicated. Therefore, while she is relevant to the general condition being studied, she does not fully match the specific condition of interest.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criterion of having complicated appendicitis, as there is no evidence of a ruptured appendix. Additionally, there is insufficient information regarding her ability to take oral medication post-surgery and her use of birth control. On the exclusion side, there is no information suggesting she meets any exclusion criteria, but the lack of evidence for complicated appendicitis significantly impacts her eligibility.",
+            "eligibility_score_E": -30.0
+        }
+    },
+    "sigir-201423": {
+        "NCT02219360": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with symptoms consistent with an acute exacerbation of chronic obstructive pulmonary disease (COPD), which is the target condition of the trial. The patient is 63 years old, meeting the age criterion of being over 40. Although the note does not explicitly state that the patient is hospitalized, the severity of symptoms and the use of home oxygen suggest a potential hospitalization, which aligns with the trial's focus on hospitalized patients.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of being over 40 years old and is likely experiencing an acute exacerbation of COPD, which is the primary condition for inclusion. He is not excluded based on the available exclusion criteria, as there is no evidence of congestive heart failure on the chest x-ray, and no mention of serious cardiac, renal, or hepatic issues. However, there is insufficient information regarding a chest CT to rule out other exclusionary conditions such as lung cancer or interstitial lung diseases. The lack of explicit confirmation of hospitalization slightly reduces the eligibility certainty.",
+            "eligibility_score_E": 70.0
+        },
+        "NCT00170222": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with symptoms consistent with an acute exacerbation of COPD, which is the primary focus of the trial. The trial aims to evaluate the efficacy of antibiotics in such cases, and the patient's symptoms, including cough, shortness of breath, and the need for home oxygen, align with the trial's target condition.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the key inclusion criteria of having an acute exacerbation of COPD and the ability to take oral medication. There is no information suggesting he is excluded based on the exclusion criteria provided. However, there is insufficient information regarding his ability to perform lung function tests and whether he has received any pretreatment with antibiotics or corticosteroids, which are critical for full eligibility assessment. Therefore, while he is likely eligible, the lack of complete information on some criteria slightly reduces the eligibility score.",
+            "eligibility_score_E": 70.0
+        }
+    },
+    "sigir-201424": {
+        "NCT02229695": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is a 33-year-old male who is likely undergoing an emergency laparotomy due to a spleen rupture, which aligns with the trial's focus on patients undergoing temporary abdominal closure following trauma. The trial aims to study the effects of different temporary abdominal closure techniques, which is applicable to this patient's situation.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion as he is an adult male undergoing emergency laparotomy with a likely temporary abdominal closure due to trauma. However, there is a potential concern regarding the exclusion criterion related to survival estimates, as the patient's vital signs are critical (BP: 60/30 mmHg, HR: 140/min). Despite this, there is no direct mention of the surgeon's estimate of survival, so the patient cannot be definitively excluded based on this criterion. Therefore, the patient is likely eligible for the trial.",
+            "eligibility_score_E": 70.0
+        },
+        "NCT01771861": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he presented to the ER with trauma-related symptoms, specifically a spleen rupture and extended intraperitoneal hemorrhage, which are consistent with the target conditions of trauma and injuries. However, there is no direct evidence that the trauma team was activated, which slightly reduces the relevance.",
+            "relevance_score_R": 75.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of having an Injury Severity Score likely greater than 15 due to the spleen rupture and extended intraperitoneal hemorrhage. However, he is excluded because he was admitted more than 24 hours post-injury, which is a disqualifying factor according to the exclusion criteria.",
+            "eligibility_score_E": -75.0
+        }
+    },
+    "sigir-201425": {
+        "NCT00282269": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he has a severe traumatic brain injury, indicated by a GCS of 6/15, which aligns with the trial's target condition. Additionally, the patient is within the specified age range of 1 to 16 years. However, there is no information on whether the patient is mechanically ventilated, which is a requirement for inclusion.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the age criterion and has a severe traumatic brain injury with a GCS of 6/15, which suggests potential eligibility. However, the lack of information on mechanical ventilation status and CT scan results limits the ability to fully assess eligibility. The patient does not meet any exclusion criteria based on the available information.",
+            "eligibility_score_E": 40.0
+        },
+        "NCT02378311": {
+            "relevance_explanation": "The patient is an 8-year-old boy who sustained an injury from a bicycle fall, which aligns with the target conditions of the trial focusing on injuries in children related to cycling. The trial aims to investigate injuries associated with handlebar impacts, and the patient's incident involved a bicycle, making him relevant to the study.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets all inclusion criteria: he is within the age range (0-15 years), presented to a hospital for treatment, sustained an injury, and the incident involved a non-motorized bicycle. He is not excluded by any exclusion criteria, as there is no indication of involvement in a motor vehicle collision, injury by another rider, or the presence of 'bull bars' on the bicycle. Additionally, the patient can provide informed consent, and he was not dead on arrival or during admission.",
+            "eligibility_score_E": 90.0
+        }
+    },
+    "sigir-201427": {
+        "NCT01187901": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is 21 years old and has a family history of multiple colonic polyps, which suggests a clinical diagnosis of familial adenomatous polyposis (FAP). This aligns with the trial's target condition of adenomatous polyposis coli. Additionally, the patient is willing to provide informed consent, which is a requirement for participation.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the key inclusion criterion of being 18 years or older with a clinical diagnosis of FAP. He is also willing to provide informed consent. However, there is insufficient information regarding other inclusion criteria such as the presence of duodenal polyps, recent surgeries, WHO performance status, bone marrow function, liver function, and NSAID use. Similarly, there is no information on exclusion criteria such as prior investigational drug use, recent malignancies, severe medical conditions, cardiac issues, lung function, infections, liver disease, and laboratory values. Therefore, while the patient is likely eligible based on the available information, the lack of data on several criteria prevents a full eligibility determination.",
+            "eligibility_score_E": 45.0
+        },
+        "NCT01713881": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he has been found to have colonic adenomas, which aligns with the trial's focus on colon adenoma surveillance. The trial is a retrospective chart review of patients with tubular adenomas found during colonoscopy, and while the patient had adenomas found during sigmoidoscopy, this is closely related and relevant. Additionally, the patient is over 18 years old, meeting the age criterion for relevance.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria as he is over 18 years old and has adenomas found on sigmoidoscopy, which is similar to colonoscopy. There are no exclusion criteria that apply to him, as there is no mention of a diagnosis of IBD, and he is not under 18. Therefore, the patient is fully eligible for the trial.",
+            "eligibility_score_E": 80.0
+        }
+    },
+    "sigir-201429": {
+        "NCT00703417": {
+            "relevance_explanation": "The patient is a postmenopausal woman with a history of diabetes, which aligns with the trial's focus on postmenopausal women with type II diabetes. However, she is only 51 years old, which is below the required age range of 55-75 years. Additionally, her diabetes is diet-controlled, and there is no evidence of it being treated with insulin or oral therapies, which is a requirement for the trial. These factors significantly reduce her relevance to the trial.",
+            "relevance_score_R": 30.0,
+            "eligibility_explanation": "The patient does not meet the age criterion as she is 51 years old, below the required 55-75 years. Her diabetes is diet-controlled, not treated with insulin or oral therapies, which is necessary for inclusion. There is no information on her BMI, and she has no history of fractures, which are important for the trial. She does not meet any exclusion criteria, but the lack of inclusion criteria fulfillment makes her ineligible.",
+            "eligibility_score_E": -30.0
+        },
+        "NCT01978834": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she is a 51-year-old female, which fits the target demographic of the study focusing on women aged 50 to 89 years. Additionally, she is concerned about osteoporosis, which is the condition being studied in the trial.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets all the inclusion criteria: she is female and within the age range of 50 to 89 years. She does not meet any of the exclusion criteria: there is no indication that she has opted out of research contact, she can provide informed consent, there is no mention of infeasibility of hip BMD measurement, and there are no open wounds that would preclude ultrasound measurements. Therefore, she is fully eligible for the trial.",
+            "eligibility_score_E": 95.0
+        }
+    },
+    "sigir-201430": {
+        "NCT00721006": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he is a 72-year-old male with symptoms of claudication, which aligns with the trial's focus on severe leg ischemia and peripheral artery disease. The trial targets patients with double-sided claudication and poor circulation, which is consistent with the patient's symptoms of calf pain when walking uphill and diminished pulses in the lower extremities. However, there is no specific mention of an ABI measurement or resting ischemic pain, which are part of the inclusion criteria.",
+            "relevance_score_R": 75.0,
+            "eligibility_explanation": "The patient meets the age criterion and has claudication, which are part of the inclusion criteria. He is not excluded based on the ability to provide informed consent or recent myocardial infarction. However, there is insufficient information regarding ABI measurements, resting ischemic pain, or candidacy for surgical procedures, which are crucial for full eligibility. Additionally, there is no information on previous angiogenic therapy, sensitivity to certain medications, or WBC count, which could affect eligibility. Therefore, while the patient is not explicitly excluded, the lack of information on key inclusion criteria limits the eligibility score.",
+            "eligibility_score_E": 30.0
+        },
+        "NCT02273232": {
+            "relevance_explanation": "The patient exhibits symptoms consistent with peripheral arterial disease (PVD), such as calf pain when walking and diminished pulses in the lower extremities. These symptoms align with the target condition of the trial, which is focused on patients with peripheral arterial diseases. However, there is no explicit diagnosis of moderate PVD or staging information (Rutherford or Fontaine) provided in the patient note, which limits the relevance. The trial aims to study the effects of remote ischemic preconditioning on PVD, and the patient's symptoms suggest potential relevance to the trial's objectives.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient shows symptoms indicative of PVD, which is relevant for the trial. However, there is insufficient information to confirm eligibility based on the inclusion criteria, as there is no explicit diagnosis of moderate PVD or staging information. The patient does not meet any exclusion criteria, such as severe cardiac or respiratory conditions, upper limb PVD, or contraindications for MRA. Therefore, while the patient is not explicitly excluded, the lack of detailed inclusion criteria fulfillment results in a neutral eligibility status.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-20151": {
+        "NCT01142245": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he presents with symptoms consistent with upper gastrointestinal bleeding, which could be due to a peptic ulcer. The trial is focused on preventing recurrent bleeding from peptic ulcers, which aligns with the patient's condition. However, there is no confirmation of ulcer bleeding with Forrest classification, which is a key inclusion criterion.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the age criterion and is willing to provide informed consent, which satisfies two inclusion criteria. However, there is no confirmation of ulcer bleeding with Forrest classification, and no information about endoscopic hemostasis being achieved, which are critical for inclusion. The patient does not meet any exclusion criteria based on the available information, but the lack of confirmation of ulcer bleeding and endoscopic hemostasis limits eligibility.",
+            "eligibility_score_E": 20.0
+        },
+        "NCT00843063": {
+            "relevance_explanation": "The patient presents with upper gastrointestinal bleeding, which is relevant to the trial's focus on peptic ulcers/erosions. However, there is no information about the use of low-dose aspirin, which is a key aspect of the trial. The patient's age is appropriate for the trial, but the lack of information on aspirin use and endoscopic findings limits the relevance.",
+            "relevance_score_R": 40.0,
+            "eligibility_explanation": "The patient meets the age criterion but lacks information on several key inclusion criteria, such as the use of low-dose aspirin and endoscopic findings of ulcers or erosions. There is also insufficient information to assess most exclusion criteria. Therefore, the eligibility is limited due to missing critical information.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-20152": {
+        "NCT02532452": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is immunocompromised and has evidence of a viral infection, which aligns with the trial's target conditions. The trial aims to treat viral infections in immunocompromised hosts, and the patient fits this profile. Additionally, the patient is willing to provide informed consent, which is a requirement for participation.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: he is immunocompromised with a viral infection, is over 1 day old, and is willing to provide informed consent. However, there is insufficient information regarding the tapering of steroids, the ability to receive treatment in Cincinnati, and whether he has had a stem cell transplant. The patient does not meet any exclusion criteria, as there is no mention of GVHD, bacterial or fungal infections, malignancy relapse, or recent infusion of ATG or alemtuzumab. Overall, the patient is likely eligible but requires further information on certain criteria.",
+            "eligibility_score_E": 60.0
+        },
+        "NCT00034437": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is within the specified age range (18-65 years) and has evidence of a cytomegalovirus (CMV) infection, indicated by the presence of owl's eye inclusion bodies. Additionally, the patient is willing to provide informed consent, which is a requirement for participation in the trial.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "While the patient meets the inclusion criteria of age, CMV seropositivity, and willingness to provide informed consent, he is excluded due to being on immunosuppressive medications, which indicates an immunodeficiency state. This is a disqualifying factor according to the trial's exclusion criteria.",
+            "eligibility_score_E": -90.0
+        }
+    },
+    "sigir-20153": {
+        "NCT01326507": {
+            "relevance_explanation": "The patient presents with symptoms suggestive of a pulmonary embolism, such as acute onset of shortness of breath, tachypnea, and chest pain, which are relevant to the trial's focus on acute pulmonary embolism. However, there is no confirmed diagnosis of pulmonary embolism in the emergency department, which is a key inclusion criterion for the trial. Therefore, while the symptoms align with the trial's target condition, the lack of a confirmed diagnosis reduces the relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient shows symptoms that suggest a pulmonary embolism, but there is no confirmed diagnosis, which is necessary for inclusion. The patient is not excluded by any of the exclusion criteria, such as being under guardianship, lacking social insurance, being pregnant, refusing consent, or having a recent myocardial infarction. However, without a confirmed diagnosis of pulmonary embolism, the patient cannot be considered eligible for the trial.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT01139632": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he presents with chest pain, which may indicate an intermediate risk for coronary artery disease (CAD), a key focus of the trial. Additionally, he is 65 years old, which meets the age criterion, and he is able to provide informed consent. However, there is no mention of nonalcoholic fatty liver disease (NAFLD), which is a primary target condition of the trial, slightly reducing the relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: he is over 18 years old, can provide informed consent, and presents with chest pain, which may indicate an intermediate risk for CAD. However, there is insufficient information regarding stress tests, which are necessary to fully assess eligibility for some criteria. Additionally, there is no information on the presence of NAFLD, which is a key condition for the trial. The patient is not excluded based on the available exclusion criteria, but the lack of information on NAFLD and stress tests limits full eligibility.",
+            "eligibility_score_E": 30.0
+        }
+    },
+    "sigir-20154": {
+        "NCT00844987": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she presents with an acute coronary syndrome (ACS), evidenced by typical chest pain, ST-segment elevation on ECG, and elevated cardiac biomarkers (CK-MB and Troponin T). These are key inclusion criteria for the trial, which aims to study growth factors in patients with ACS. Additionally, the patient underwent coronary angiography, which aligns with the trial's protocol for assessing myocardial injury.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets all the inclusion criteria: she experienced typical chest pain, has ST-segment elevation on ECG, underwent coronary angiography, and will provide informed consent. She does not have a known past history of myocardial infarction, which is an exclusion criterion, and she will sign informed consent, fulfilling all necessary conditions for participation. Therefore, she is fully eligible for the trial.",
+            "eligibility_score_E": 95.0
+        },
+        "NCT01243255": {
+            "relevance_explanation": "The patient is relevant to the clinical trial because she has hypercholesterolemia, which is the target condition of the trial. However, there is no information provided about whether she is currently on lipid-lowering drug treatment, which is a key inclusion criterion for the trial. This lack of information reduces the relevance score.",
+            "relevance_score_R": 50.0,
+            "eligibility_explanation": "The eligibility of the patient is uncertain due to the lack of information regarding her current treatment for hypercholesterolemia. There is no evidence that she is on lipid-lowering therapy, which is required for inclusion. Additionally, there is no information about the duration of any such treatment or changes in medication, which are also important criteria. The patient is not excluded based on the available exclusion criteria, as she will provide informed consent. However, the absence of information about a recent blood sample for lipid profile and glucose further complicates the eligibility assessment.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-20155": {
+        "NCT02407106": {
+            "relevance_explanation": "The clinical trial is focused on children with a history of rheumatic fever, specifically targeting the prevention of streptococcal throat infections in this population. The patient is a 31-year-old woman with no previous medical problems and no history of rheumatic fever or rheumatic heart disease. Therefore, the trial is not relevant to her condition as it is designed for a pediatric population with a specific medical history that she does not have.",
+            "relevance_score_R": 10.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criteria as she does not have rheumatic heart disease or a history of rheumatic fever, which are necessary for participation in the trial. Additionally, the trial is aimed at children, and the patient is an adult. While she is willing to comply with the trial protocol, this does not affect her eligibility given the lack of relevant medical history and age mismatch.",
+            "eligibility_score_E": -10.0
+        },
+        "NCT02118818": {
+            "relevance_explanation": "The patient presents with symptoms such as joint pain, fever, and chest pain, which could be indicative of rheumatic fever, a precursor to rheumatic heart disease (RHD). However, there is no direct mention of rheumatic heart disease or any echocardiographic evidence of RHD in the patient note. The trial is focused on the genetics of RHD, and without confirmed RHD, the relevance is limited.",
+            "relevance_score_R": 30.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criterion of having clinical and echocardiographic signs of RHD, as there is no mention of such signs in the patient note. Additionally, the patient is not excluded based on the absence of congenital heart disease. However, the lack of confirmed RHD makes the patient ineligible for the trial.",
+            "eligibility_score_E": -30.0
+        }
+    },
+    "sigir-20156": {
+        "NCT02375451": {
+            "relevance_explanation": "The patient presents with symptoms consistent with hyperthyroidism, which is one of the target conditions of the clinical trial. However, the trial is specifically focused on the effects of radioiodine therapy on salivary function in children, and the patient is an adult. Additionally, there is no mention of the patient having received radioiodine therapy, which is a key aspect of the trial. Therefore, while the patient's condition is relevant, the specific focus of the trial on pediatric patients and radioiodine therapy limits the relevance.",
+            "relevance_score_R": 30.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criteria as there is no evidence of having received radioiodine therapy, nor is there information to suggest she is part of a negative control group. She is not excluded based on language, as she can provide informed consent. However, the trial's focus on pediatric patients further limits her eligibility.",
+            "eligibility_score_E": -30.0
+        },
+        "NCT01717352": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is within the age range of 21 to 65 years, which is one of the inclusion criteria. Additionally, her symptoms of insomnia suggest she may sleep 7 hours or less most nights, aligning with another inclusion criterion. However, there is no information about her BMI, which is crucial for determining relevance to a weight loss study targeting overweight or obese individuals.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient meets the age criterion and likely meets the sleep criterion due to her insomnia. However, there is insufficient information about her BMI, which is necessary to confirm her eligibility for a study focused on overweight or obese individuals. Additionally, there is no information on exclusion criteria such as the use of medications affecting sleep, sleep apnea, or shift work, which could impact her eligibility.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-20157": {
+        "NCT02633449": {
+            "relevance_explanation": "The patient presents with symptoms consistent with depression, such as fatigue, increased sleep and appetite, difficulty concentrating, anhedonia, and feelings of guilt. These symptoms align with the target condition of major depression for the clinical trial. However, there is no explicit diagnosis of unipolar major depressive disorder, which is a key inclusion criterion. Despite this, the symptoms suggest a high likelihood of relevance to the trial's focus on depression treatment.",
+            "relevance_score_R": 75.0,
+            "eligibility_explanation": "The patient does not have any exclusionary conditions such as neurological diseases, manic episodes, psychotic symptoms, recent psychotherapy, or electroconvulsive therapy. However, the lack of a confirmed diagnosis of unipolar major depressive disorder limits full eligibility. Additionally, there is no information on current medication, which could potentially affect eligibility if the patient is on medications other than SSRIs or Mirtazapine. Therefore, while the patient is not excluded by any criteria, the absence of a confirmed diagnosis and medication information results in partial eligibility.",
+            "eligibility_score_E": 50.0
+        },
+        "NCT01632319": {
+            "relevance_explanation": "The patient is a 20-year-old undergraduate college student, which aligns with the trial's target demographic of undergraduate students aged 18-24. She exhibits symptoms of depression, which is one of the target conditions of the trial. However, there is no information provided about her binge drinking behavior, which is a key component of the trial's focus. This lack of information on binge drinking reduces the relevance slightly, but her depressive symptoms and student status still make her a relevant candidate for the trial.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria for age and student status. She shows symptoms of depression, but there is no BDI-II score provided to confirm the severity of her depression, which is necessary for full inclusion. Additionally, there is no information on her binge drinking behavior, which is a critical inclusion criterion. She does not meet any exclusion criteria, as there is no evidence of substance dependence, bulimia, psychosis, bipolar disorder, recent psychosocial treatment, or recent changes in antidepressant medication. Due to the lack of information on binge drinking and BDI-II score, her eligibility is limited.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-20158": {
+        "NCT00393913": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he exhibits symptoms consistent with obstructive sleep apnea (OSA), such as nighttime snoring, pauses in breathing, and daytime sleepiness, which are key focus areas of the trial. The trial aims to evaluate the relationship between sleep-disordered breathing and daytime alertness, which aligns with the patient's symptoms.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets the primary inclusion criterion by exhibiting symptoms of OSA, including snoring and daytime sleepiness. There is no information suggesting the presence of other sleep disorders, unstable medical conditions, or use of psychotropic medications, which are exclusion criteria. The patient is a 10-year-old boy, so pregnancy is not applicable, and he can provide informed consent, indicating no communication impairments. However, there is insufficient information regarding the patient's stable medical history and medication changes, which slightly affects the eligibility score.",
+            "eligibility_score_E": 85.0
+        },
+        "NCT02562040": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he exhibits symptoms of sleep-disordered breathing, such as nighttime snoring, pauses in breathing, and restlessness, which align with the trial's focus on evaluating adenotonsillectomy for children with sleep-disordered breathing. However, there is no direct evidence of a diagnosis of mild sleep-disordered breathing, and the frequency and duration of snoring are not specified, which limits the relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient shows potential eligibility as he is not excluded by any of the exclusion criteria provided. However, there is insufficient information to confirm eligibility for the inclusion criteria, such as the lack of a polysomnogram, tonsillar hypertrophy assessment, and ENT evaluation. Therefore, while the patient is not disqualified, there is not enough information to confirm full eligibility.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-20159": {
+        "NCT01766830": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as they present with a persistent fever lasting more than one week, which aligns with the trial's focus on patients with persistent fevers in tropical regions. Additionally, the patient is within the age range specified by the trial's inclusion criteria.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "While the patient meets the inclusion criteria of having a fever for more than one week and being of eligible age, they are excluded due to the need for immediate intensive care as indicated by signs of respiratory distress. This exclusion criterion significantly impacts their eligibility for the trial.",
+            "eligibility_score_E": -80.0
+        }
+    },
+    "sigir-201510": {
+        "NCT02340533": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she presents with symptoms that align with the target condition of adenomyosis, such as severe premenstrual and menstrual pelvic pain, heavy and irregular periods, and occasional spotting. These symptoms match the inclusion criteria of dysmenorrhea, chronic pelvic pain, menorrhagia, and metrorrhagia. Additionally, the patient is willing to provide informed consent and comply with the trial protocol, which is necessary for participation.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria as she exhibits symptoms of dysmenorrhea, chronic pelvic pain, menorrhagia, and metrorrhagia, which are indicative of pelvic congestion and relevant to the study of adenomyosis. There are no exclusion criteria that apply to her, as she is willing to provide informed consent and comply with the trial protocol. Therefore, she is fully eligible for the trial.",
+            "eligibility_score_E": 95.0
+        },
+        "NCT01377519": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she is a premenopausal woman experiencing symptoms that could be associated with uterine fibroids, such as severe pelvic pain and heavy, irregular periods. These symptoms align with the target condition of the trial, which is uterine fibroids.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: she is over 18, premenopausal, and has symptoms suggestive of fibroids. However, there is insufficient information regarding the accessibility of fibroids for treatment and her hematocrit level. Importantly, she is excluded due to unexplained menstrual irregularity, which is a specific exclusion criterion. This significantly impacts her eligibility.",
+            "eligibility_score_E": -45.0
+        }
+    },
+    "sigir-201511": {
+        "NCT01862510": {
+            "relevance_explanation": "The patient exhibits symptoms consistent with hypothyroidism, such as cold sensitivity, fatigue, hyporeflexia, and dry skin, which are relevant to the trial's focus on hypothyroid patients. However, there is no explicit mention of a formal diagnosis of hypothyroidism or the use of thyroid replacement therapy, which are key inclusion criteria for the trial. This limits the relevance but does not eliminate it entirely, as the symptoms strongly suggest the possibility of hypothyroidism.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient shows symptoms indicative of hypothyroidism, which aligns with the trial's inclusion criteria. However, there is no confirmation of a hypothyroidism diagnosis or the use of thyroid replacement therapy, which are necessary for inclusion. On the exclusion side, there is no evidence of any disqualifying treatments or procedures, such as thyroid surgery or specific medications. Therefore, while the patient is not explicitly excluded, the lack of confirmed inclusion criteria limits eligibility.",
+            "eligibility_score_E": 20.0
+        },
+        "NCT01197183": {
+            "relevance_explanation": "The patient exhibits symptoms consistent with hypothyroidism, such as cold sensitivity, fatigue, constipation, hyporeflexia, and dry skin, which aligns with the target condition of the trial. However, there is no direct evidence of a recent diagnosis of hypothyroidism, which is a key inclusion criterion. The patient is willing to provide informed consent and comply with the trial protocol, which is relevant for participation. Overall, the patient is relevant to the trial due to the symptomatic presentation, but the lack of a confirmed recent diagnosis reduces the relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of providing informed consent and does not meet any exclusion criteria, such as recent participation in another clinical trial or inability to follow up. However, the lack of information regarding a recent diagnosis of hypothyroidism and contraindications to L\u00e9vothyrox limits the eligibility. Therefore, while the patient is not excluded, the eligibility is not fully confirmed due to missing diagnostic information.",
+            "eligibility_score_E": 30.0
+        }
+    },
+    "sigir-201512": {
+        "NCT02418169": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he has sustained a skull fracture, which is one of the target conditions of the study. The trial aims to evaluate the association between traumatic brain injuries and skull fractures, and the patient fits this profile. However, there is no information about a craniofacial fracture or the Glasgow Coma Scale (GCS) score, which limits the relevance slightly.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of having a skull fracture, which is relevant to the study's focus on craniofacial and skull fractures. There is no exclusion criterion that applies to the patient, as he was admitted to the hospital and did not die before admission. However, the lack of information on the GCS score means we cannot fully confirm eligibility based on the severe traumatic brain injury criterion.",
+            "eligibility_score_E": 60.0
+        },
+        "NCT02467309": {
+            "relevance_explanation": "The patient presents with symptoms consistent with bacterial meningitis, such as fever and nuchal rigidity, which are relevant to the trial's focus on bacterial meningitis. However, the trial is specifically targeting children, and the patient is an adult, which significantly reduces the relevance.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient shows clinical signs of probable bacterial meningitis but lacks cerebrospinal fluid examination results to confirm the diagnosis. Additionally, the trial is for children, and the patient is an adult, making him ineligible.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-201513": {
+        "NCT00315042": {
+            "relevance_explanation": "The patient is a 5-year-old boy presenting with symptoms such as dysphagia, drooling, fever, and vocal changes, which are consistent with pharyngitis. The trial targets children aged 6 months to less than 13 years with Streptococcus pyogenes tonsillitis/pharyngitis. However, there is no specific mention of Streptococcus pyogenes infection in the patient note, which is a key requirement for the trial. Despite this, the age and some symptoms align with the trial's focus, making the patient somewhat relevant.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient meets the age criterion and presents with symptoms like fever and pain on swallowing, which are part of the inclusion criteria. However, there is no confirmation of a Streptococcus pyogenes infection through a rapid detection test, which is crucial for eligibility. Additionally, the patient's symptoms suggest possible epiglottitis, an exclusion criterion, which disqualifies him from the trial. Therefore, despite meeting some inclusion criteria, the exclusion criterion related to deep tissue infection makes the patient ineligible.",
+            "eligibility_score_E": -60.0
+        },
+        "NCT01255670": {
+            "relevance_explanation": "The clinical trial is focused on the treatment of peritonsillar abscess in adults, while the patient is a 5-year-old boy with symptoms that could suggest a peritonsillar abscess but without a confirmed diagnosis. Additionally, the trial is specifically for adult patients, which makes the patient less relevant to this trial.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient does not meet the age requirement as the trial is for adults. There is no confirmed diagnosis of peritonsillar abscess, which is a key inclusion criterion. While the patient is voluntary, other criteria such as language skills, email access, and confirmed diagnosis are not met. The patient is not excluded by any criteria, but the lack of inclusion criteria fulfillment makes him ineligible.",
+            "eligibility_score_E": -20.0
+        }
+    },
+    "sigir-201514": {
+        "NCT00827463": {
+            "relevance_explanation": "The patient is a pregnant woman at 11 weeks gestation, which aligns with the trial's focus on early detection of anemia during the first trimester of pregnancy. Her condition of anemia is directly relevant to the trial's target condition.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion as she is at the beginning of her pregnancy. However, she is excluded due to receiving iron supplementation, which could be considered a periconceptional treatment against anemia. There is no information on whether she speaks French, but this does not affect the current eligibility assessment.",
+            "eligibility_score_E": -90.0
+        },
+        "NCT01308112": {
+            "relevance_explanation": "The patient is a 27-year-old pregnant woman at 11 weeks gestation, which fits the inclusion criteria for age and gestational period. The trial focuses on prenatal iron supplementation, and the patient is already receiving iron supplements due to mild iron deficiency. This makes her relevant to the study, which aims to compare iron supplementation methods in pregnant women.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria of being a woman aged 15-45 and being pregnant with a gestational age of less than 23 weeks. She is not excluded by the criteria of failing to provide a blood sample, having an initial hemoglobin concentration below 90 g/L, or carrying multiples. She will provide informed consent, which is required. There is no evidence of sickle cell anemia, epilepsy, diabetes, eclampsia, pre-eclampsia, mental retardation, or a metabolic disorder. However, there is insufficient information regarding her plans to deliver outside the research clinic or leave the homestead, which could potentially affect her eligibility. Despite these uncertainties, the available information suggests she is likely eligible.",
+            "eligibility_score_E": 70.0
+        }
+    },
+    "sigir-201515": {
+        "NCT00932425": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she has experienced a cryptogenic stroke, which is the target condition of the trial. Additionally, she is over 18 years old and had the stroke within the last 60 days, both of which are inclusion criteria for the trial. However, there is no information indicating that she was seen at UCSF Medical Center, which is a specific requirement for the trial.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the age and recent stroke onset inclusion criteria and does not meet any of the exclusion criteria based on the available information. However, there is a lack of information regarding whether she was seen at UCSF Medical Center, which is a critical inclusion criterion. This missing information affects her eligibility status.",
+            "eligibility_score_E": 40.0
+        },
+        "NCT01550588": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she has experienced a cryptogenic stroke within the last three months, which is a key inclusion criterion. However, the trial specifically targets patients with a high-risk Patent Foramen Ovale (PFO), which has not been diagnosed in this patient. This lack of a PFO diagnosis reduces the relevance of the trial to the patient, as the primary objective of the trial is to assess treatment strategies for cryptogenic stroke patients with high-risk PFO.",
+            "relevance_score_R": 50.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: she had a cryptogenic stroke within the last three months, is willing to participate in follow-up visits, and there are no other potential causes of stroke identified. She also does not meet any exclusion criteria. However, the patient does not meet the critical inclusion criterion of having a high-risk PFO, which is essential for trial eligibility. This significantly impacts her eligibility for the trial.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-201516": {
+        "NCT00839124": {
+            "relevance_explanation": "The clinical trial is focused on individuals with allergic asthma or normal volunteers. The patient is a 4-year-old boy with a history of allergic rhinitis and a recent episode of wheezing, which could suggest a potential for asthma. However, the trial specifically requires a history of episodic wheezing or asthma diagnosis after the age of 6, which the patient does not meet. Additionally, the trial involves an inhalational challenge, which may not be suitable for a child of this age. Therefore, the relevance is low as the patient does not fit the primary target group of the study.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient does not meet the inclusion criteria for a history of wheezing or asthma diagnosis after age 6. There is no information on lung function tests, methacholine challenge, or allergy skin tests, which are critical for eligibility. The patient does not meet any exclusion criteria, but the lack of meeting key inclusion criteria makes him ineligible for the trial.",
+            "eligibility_score_E": -20.0
+        },
+        "NCT00930826": {
+            "relevance_explanation": "The clinical trial is focused on bronchial asthma, a condition the patient does not have a clinical diagnosis for. The patient presented with wheezing for the first time and has no history of asthma, which makes the trial less relevant to him. The trial requires participants to have a clinical diagnosis of bronchial asthma, which the patient does not meet.",
+            "relevance_score_R": 20.0,
+            "eligibility_explanation": "The patient does not meet the primary inclusion criterion of having a clinical diagnosis of bronchial asthma. There is also insufficient information regarding the patient's ability to swallow tablets, which is another inclusion criterion. However, the patient is not excluded based on the exclusion criterion related to steroid use, as there is no mention of steroid inhalation or ingestion in the patient note.",
+            "eligibility_score_E": -20.0
+        }
+    },
+    "sigir-201517": {
+        "NCT01446198": {
+            "relevance_explanation": "The patient is relevant to the clinical trial because she has tested positive for HPV, which is the target condition of the trial. However, the patient note does not provide specific information about the APTIMA HPV Assay or the PANTHER System, which are central to the trial's objectives.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The eligibility of the patient cannot be fully determined due to lack of specific information. The patient note does not confirm if the sample had an APTIMA HPV Assay TIGRIS System result, if an aliquot is available and suitable for testing, or if the sample was randomly selected. Additionally, there is no information on the integrity of the sample. Therefore, while the patient is relevant, her eligibility remains uncertain.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT01231945": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as she is a 32-year-old female, which fits the age and gender criteria for the study. She has tested positive for HPV, which is a key focus of the trial. The trial aims to evaluate HPV testing methods, and the patient has a recent HPV positive result, making her a suitable candidate for the study.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: she has not been previously diagnosed with cervical cancer, is female and likely has a cervix, and is physically able to undergo routine cervical cancer screening. She can provide informed consent. There is no information about her pregnancy status, which is a potential exclusion criterion, but not enough to disqualify her without further information. The lack of information on her pregnancy status slightly reduces her eligibility score.",
+            "eligibility_score_E": 70.0
+        }
+    },
+    "sigir-201518": {
+        "NCT00344513": {
+            "relevance_explanation": "The patient exhibits significant symptoms of heart failure, such as shortness of breath on exertion, orthopnea, bibasilar lung crackles, pitting edema, and jugular venous distension, which are relevant to the trial's focus on heart failure. However, there is no information about the patient being hospitalized, which is a key component of the trial's inclusion criteria.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "While the patient shows symptoms consistent with heart failure, there is no information confirming hospitalization for heart failure, which is necessary for inclusion. Additionally, there is no data on systolic or diastolic dysfunction, which is required to meet the inclusion criteria. The absence of exclusion criteria does not impact eligibility negatively.",
+            "eligibility_score_E": 0.0
+        },
+        "NCT00534066": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with symptoms consistent with congestive heart failure (CHF), which is the target condition of the trial. The trial aims to study patients with CHF in the Emergency Department, and the patient's symptoms such as shortness of breath, difficulty breathing when lying flat, lung crackles, and edema are indicative of CHF. However, there is no explicit mention of a primary diagnosis of CHF in the Emergency Department, which slightly reduces the relevance.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the age criterion and is able to provide informed consent, which are positive indicators for eligibility. However, there is insufficient information to confirm a primary diagnosis of CHF in the Emergency Department, which is a crucial inclusion criterion. Additionally, there is no information on hospital admission or transfer to the Observation Unit, which is another inclusion criterion. The patient does not meet any exclusion criteria based on the available information, but the lack of confirmation on key inclusion criteria limits the eligibility.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-201519": {
+        "NCT00806091": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she has a significant smoking history and presents with symptoms consistent with COPD, which is the target condition of the trial. The trial aims to study the effects of smoking on COPD, making her a suitable candidate for the research focus.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of being a smoker with COPD, as evidenced by her significant smoking history and symptoms indicative of COPD. She does not meet the criterion for non-smokers, but this does not affect her eligibility since she qualifies under the smoker category. There are no exclusion criteria mentioned that would disqualify her.",
+            "eligibility_score_E": 95.0
+        },
+        "NCT02213809": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as she presents with symptoms and a history consistent with COPD, which is the target condition of the trial. Her significant smoking history and chronic respiratory symptoms strongly suggest COPD, which aligns with the trial's focus on patients with this condition. However, there is no explicit confirmation of a COPD diagnosis or spirometry results indicating GOLD grade 2-3, which are necessary for full relevance.",
+            "relevance_score_R": 75.0,
+            "eligibility_explanation": "The patient likely has COPD due to her smoking history and symptoms, but there is no direct evidence of a COPD diagnosis or spirometry results indicating GOLD grade 2-3, which are required for eligibility. Without this information, we cannot confirm her eligibility for the trial.",
+            "eligibility_score_E": 0.0
+        }
+    },
+    "sigir-201520": {
+        "NCT00880347": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he is an 89-year-old male with significant cognitive impairment, which aligns with the trial's focus on Alzheimer's Disease and other types of dementia. The trial aims to study blood-based signatures in patients with probable Alzheimer's Disease or other dementias, and the patient's symptoms and age make him a suitable candidate for this research.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria, such as being over 40 years old, providing informed consent, and being compliant with study procedures. However, there is no direct evidence of a clinical diagnosis of probable Alzheimer's Disease according to the specified criteria, and there is no evidence of brain imaging to confirm the diagnosis. Additionally, the presence of paratonic rigidity and myoclonic jerks may suggest other conditions, which could exclude him from the AD group. The patient is excluded from the non-AD demented group due to symptoms that may lead to reconsider the initial diagnosis of dementia. These factors significantly impact his eligibility.",
+            "eligibility_score_E": -40.0
+        },
+        "NCT00182832": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he is an older adult with cognitive impairment, which is the target condition of the study. The trial aims to improve care for hospitalized older adults with memory problems, and the patient exhibits significant cognitive impairment symptoms. However, there is no explicit mention of the patient being hospitalized in a medical ward, which is a key inclusion criterion.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria: he is over 65 years old, can speak English, and has cognitive impairment. There is no information suggesting he is excluded based on the exclusion criteria. However, the lack of explicit information about his hospitalization status in a medical ward limits his eligibility. Therefore, while he is relevant, his eligibility is uncertain due to this missing information.",
+            "eligibility_score_E": 40.0
+        }
+    },
+    "sigir-201521": {
+        "NCT02105714": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he presents with symptoms consistent with persistent digestive disorders, specifically diarrhea and abdominal cramping, which are target conditions of the trial. Additionally, the presence of ellipsoidal cysts in the stool suggests a parasitic infection, potentially giardiasis, which is one of the target conditions of the trial. However, the duration of the diarrhea is not specified, which is a critical factor for full relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the inclusion criterion of providing informed consent and does not meet any exclusion criteria, such as needing immediate intensive care or having clinical jaundice. However, the lack of information on the duration of diarrhea prevents full eligibility, as persistent diarrhea is defined as lasting for at least 2 weeks. Therefore, while the patient is not excluded, he cannot be fully confirmed as eligible without additional information on the duration of symptoms.",
+            "eligibility_score_E": 35.0
+        },
+        "NCT01959048": {
+            "relevance_explanation": "The patient is not relevant to the clinical trial as there is no indication of Clostridium difficile infection. The symptoms and stool analysis suggest a Giardia infection, which is unrelated to the trial's focus on severe CDAD. The trial is specifically targeting patients with confirmed severe CDAD, which the patient does not have.",
+            "relevance_score_R": 10.0,
+            "eligibility_explanation": "The patient is ineligible for the trial because he does not have a confirmed diagnosis of severe CDAD, which is a primary inclusion criterion. Additionally, the presence of an alternative etiology for diarrhea (likely Giardia) excludes him from participation. While the patient meets some general inclusion criteria such as age and ability to consent, these are insufficient without the primary condition of interest.",
+            "eligibility_score_E": -10.0
+        }
+    },
+    "sigir-201522": {
+        "NCT02534727": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he has a history of tuberculosis and ongoing symptoms of pulmonary TB, which are key target conditions of the trial. The trial aims to study the pharmacokinetics of TB drugs, and the patient is likely to be Mycobacterium culture positive, which aligns with the trial's objectives.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets most of the inclusion criteria: he is over 18, has a history of TB, shows ongoing symptoms, is likely Mycobacterium culture positive, and is willing to comply with the trial protocol. However, there is no information on whether he is taking anti-tuberculosis medicines or if there is suspected drug resistance, which are important criteria for full eligibility. There are no exclusion criteria that apply to him.",
+            "eligibility_score_E": 60.0
+        },
+        "NCT01207128": {
+            "relevance_explanation": "The patient is relevant to the clinical trial as he has a diagnosis of aspergillosis, which is the target condition of the trial. The presence of septated, low-angle branching hyphae in the sputum culture is indicative of Aspergillus species, aligning with the trial's focus on invasive aspergillosis. Additionally, the patient is willing to provide informed consent and is over 18 years of age, meeting some of the basic inclusion criteria.",
+            "relevance_score_R": 80.0,
+            "eligibility_explanation": "The patient meets the inclusion criteria of providing informed consent and being over 18 years old. However, there is insufficient information regarding the Aspergillus GM index, which is crucial for confirming the diagnosis of invasive aspergillosis as per the trial's requirements. Additionally, there is no information on prior antifungal treatment duration, liver function tests, creatinine levels, or any other exclusion criteria that might disqualify the patient. Therefore, while the patient is not explicitly excluded, the lack of information on key eligibility criteria limits the ability to confirm full eligibility.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-201523": {
+        "NCT00084240": {
+            "relevance_explanation": "The patient presents with symptoms consistent with uncomplicated, symptomatic malaria, such as high fever and joint pain, which aligns with the trial's target condition of uncomplicated, symptomatic falciparum malaria. However, there is no confirmation of a positive blood smear or rapid diagnostic test for Plasmodium falciparum, which are critical for confirming relevance to the trial.",
+            "relevance_score_R": 60.0,
+            "eligibility_explanation": "The patient is excluded due to the presence of leukopenia and thrombocytopenia, which are considered blood dyscrasias and are listed as exclusion criteria. Additionally, there is insufficient information to confirm the inclusion criteria, such as a positive blood smear or rapid diagnostic test for P. falciparum, and serum glucose levels.",
+            "eligibility_score_E": -60.0
+        },
+        "NCT02334514": {
+            "relevance_explanation": "The patient presents with symptoms such as sudden onset of high fever, headache, and joint pain, which are suggestive of influenza virus infection. These symptoms align with the clinical presentation required for the trial, making the patient relevant to the study. However, there is no confirmation of influenza via a PCR test, which is crucial for full relevance.",
+            "relevance_score_R": 70.0,
+            "eligibility_explanation": "The patient meets the symptom-based inclusion criterion, suggesting potential influenza infection. However, there is no information on a positive PCR test for influenza or whether antiviral treatment was indicated, which are necessary for full eligibility. The patient does not meet any exclusion criteria, as he is not immune compromised, not pregnant, and there is no information on prior oseltamivir treatment. Therefore, the eligibility is limited by the lack of PCR confirmation and treatment indication.",
+            "eligibility_score_E": 20.0
+        }
+    },
+    "sigir-201524": {
+        "NCT00540072": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with symptoms consistent with community-acquired bacterial pneumonia, which is the target condition of the trial. The patient exhibits a productive cough, fever, and chest pain, which align with the clinical symptoms required for the trial. Additionally, he is willing to provide informed consent and comply with the trial protocol.",
+            "relevance_score_R": 90.0,
+            "eligibility_explanation": "The patient meets several inclusion criteria, such as being an adult male, having a productive cough, and exhibiting fever. However, there is insufficient information regarding a chest radiograph showing a new pulmonary infiltrate, which is a critical inclusion criterion. Additionally, there is no information on the patient's white blood cell count or hypoxemia status, which are also important for eligibility. The patient does not meet any exclusion criteria based on the available information.",
+            "eligibility_score_E": 45.0
+        },
+        "NCT00711399": {
+            "relevance_explanation": "The patient is highly relevant to the clinical trial as he presents with respiratory symptoms, specifically a productive cough and wheezing, which are key conditions being studied in the trial. The trial aims to assess respiratory sounds, and the patient's symptoms align well with the trial's focus. Additionally, the patient is willing to provide informed consent and comply with the trial protocol, further supporting his relevance.",
+            "relevance_score_R": 95.0,
+            "eligibility_explanation": "The patient meets all the inclusion criteria: he has a productive cough and is willing to provide informed consent. He does not meet any of the exclusion criteria: he does not have chest tubes, there are no skin lesions mentioned that would preclude sensor attachment, he is not in respiratory distress, and as a male, pregnancy is not applicable. Therefore, the patient is fully eligible for the trial.",
+            "eligibility_score_E": 95.0
+        }
+    }
+}
